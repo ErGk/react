@@ -1,0 +1,12 @@
+Node.js Kurulumu:
+
+İlk olarak, Node.js'i resmi web sitesinden indirip kurmanız gerekmektedir. Bu işlem aynı zamanda npm ve npx araçlarını da yükleyecektir.
+
+
+React Projesi Oluşturma:
+
+npx kullanarak yeni bir React projesi oluşturmak için aşağıdaki komutu kullanın:
+
+npx create-react-app my-app
+
+Burada my-app oluşturulacak olan React uygulamasının adıdır. Bu adı istediğiniz gibi değiştirebilirsiniz.
